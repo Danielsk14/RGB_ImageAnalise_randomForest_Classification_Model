@@ -7,5 +7,5 @@
 
  Através do trabalho foi possivel, foi possivel analisar uma imagem que representa a poluição maritima, e destacar qual porcentagem do mar está limpa e qual está poluida, bem com foi testada a qualidade do modelo utilzado para tal.
 
- ps: caso queira testas por si mesmo, no repositorio está disponivel as imagens utilizadas para o software.
+ OBS: caso queira testas por si mesmo, no repositorio está disponivel as imagens utilizadas para o software.
 
